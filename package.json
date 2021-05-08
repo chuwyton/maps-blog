@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/chuwyton/maps-blog/issues"
   },
-  "homepage": "https://github.com/chuwyton/maps-blog#readme"
+  "homepage": "https://github.com/chuwyton/maps-blog#readme",
+  "devDependencies": {
+    "vuepress": "^1.8.2"
+  }
 }
