@@ -1,0 +1,86 @@
+[
+    {
+        "id": 0,
+        "title": null,
+        "description": "Map title",
+        "gallery": "osakyo",
+        "filename": "osakyo-01.jpg"
+    },
+    {
+        "id": 1,
+        "title": null,
+        "description": "Osaka Station",
+        "gallery": "osakyo",
+        "filename": "osakyo-02.jpg"
+    },
+    {
+        "id": 2,
+        "title": null,
+        "description": "Kyoto Station",
+        "gallery": "osakyo",
+        "filename": "osakyo-03.jpg"
+    },
+    {
+        "id": 3,
+        "title": null,
+        "description": "Tennoji Station",
+        "gallery": "osakyo",
+        "filename": "osakyo-04.jpg"
+    },
+    {
+        "id": 4,
+        "title": null,
+        "description": "Namba Station",
+        "gallery": "osakyo",
+        "filename": "osakyo-05.jpg"
+    },
+    {
+        "id": 5,
+        "title": null,
+        "description": "Route to Arashiyama",
+        "gallery": "osakyo",
+        "filename": "osakyo-06.jpg"
+    },
+    {
+        "id": 6,
+        "title": null,
+        "description": "Kizu Station (Nara)",
+        "gallery": "osakyo",
+        "filename": "osakyo-07.jpg"
+    },
+    {
+        "id": 7,
+        "title": null,
+        "description": "JR Kyoto Line (Takatsuki, midway between Kyoto and Osaka)",
+        "gallery": "osakyo",
+        "filename": "osakyo-08.jpg"
+    },
+    {
+        "id": 8,
+        "title": null,
+        "description": "Shin-Osaka Station",
+        "gallery": "osakyo",
+        "filename": "osakyo-09.jpg"
+    },
+    {
+        "id": 9,
+        "title": null,
+        "description": "Osaka city overview",
+        "gallery": "osakyo",
+        "filename": "osakyo-10.jpg"
+    },
+    {
+        "id": 11,
+        "title": null,
+        "description": "Tennoji area",
+        "gallery": "osakyo",
+        "filename": "osakyo-11.jpg"
+    },
+    {
+        "id": 12,
+        "title": null,
+        "description": "Map overview",
+        "gallery": "osakyo",
+        "filename": "osakyo-99.jpg"
+    }
+]
