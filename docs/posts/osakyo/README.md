@@ -1,8 +1,4 @@
----
-sidebarDepth:1
----
-
-![OsaKyo Map Header Image](./osakyo.jpg)
+![OsaKyo Map Header Image](./osakyo-header.jpg)
 
 # Map of Osaka/Kyoto <span style="font-size:0.4em; color:lightgrey">22 May, 2021</span>  
 
@@ -10,7 +6,7 @@ Date started: 7 Oct 2019 (draft in 2015)
 Date complete: 17 Apr 2021  
 Medium: Water-based pen/marker on paper 
 
-[Gallery](./gallery/osakyo/)
+[Gallery](/gallery/)
 
 ## The Map
 The network between Osaka and Kyoto projects a much clearer separation of the railway networks between the two cities, as compared to the megalopolis of the Greater Tokyo Area. I hence had a very refreshing time drawing this map, and the fact that there were two centres of focus which had to fit comfortably within the confines of my canvas offered a new challenge in planning. As compared to the previous map of Tokyo, many more guides were drawn - in fact, for this map, all of the drawn lines had a guide underneath.  
