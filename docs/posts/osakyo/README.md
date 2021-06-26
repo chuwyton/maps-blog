@@ -3,7 +3,7 @@
 # Map of Osaka/Kyoto <span style="font-size:0.4em; color:lightgrey">22 May, 2021</span>  
 
 Date started: 7 Oct 2019 (draft in 2015)  
-Date complete: 17 Apr 2021  
+Date completed: 17 Apr 2021  
 Medium: Water-based pen/marker on paper  
 
 [Gallery](/gallery/)  
@@ -16,6 +16,10 @@ But the thing which I remembered most were the little rivulets that would run by
 I have never been to Osaka, in the strictest sense. Of the four or five times I have been there, it was mainly as a hub to different places around West Honshu (enabled mostly by the generous usage of the JR Pass). I spent one night around Tennoji with a bunch of friends during my university graduation trip of 2018. We ate at this place where they served jumbo sizes of everything. The next day, an incredibly strong typhoon passed by Osaka, and we spent nine hours hunkering down in a karaoke box and singing our hearts out. It was an enjoyable and memorable experience.  
 
 Both Osaka and Kyoto were where I first visited large station buildings. Until then, it had not occurred to me that railway stations could be landmarks of their own. The tall chasm of the Kyoto station building, which looked deceptively light given its glass facade, and the cavernous multistoreyed roof of Osaka station, astounded me. It was a breathtaking experience - a very different kind of amazement compared to the general hubbub and complexity of Tokyo and Shinjuku. I felt like I was in a cathedral for railways.  
+
+<mini-gallery 
+    photo-list= "osakyo/osakyo-06;osakyo/osakyo-11;osakyo/osakyo-99"
+    layout-list="1/1,1/1;        2/1,1/1;         1/2,2/2"/>  
 
 ## The Map
 The network between Osaka and Kyoto projects a much clearer separation of the railway networks between the two cities, as compared to the megalopolis of the Greater Tokyo Area. I hence had a very refreshing time drawing this map. The fact that there were two centres of focus which had to fit comfortably within the confines of my canvas, offered a new challenge in the planning of the layout. As compared to the previous map of Tokyo, many more guides were drawn - in fact, for this map, all of the drawn lines had a guide underneath.  
@@ -33,3 +37,5 @@ For through-services, I used smaller station markers and thinner lines (single- 
 I also misestimated the position of Nara station and had to draw a pretty steep line from Ikoma to the eastern side of Osaka.  
 
 And as with most attempts, there are mistakes here and there - nothing which would severly impact the accurate interpretation of the map, however.
+
+[Click here to see photos of the map.](/gallery/)

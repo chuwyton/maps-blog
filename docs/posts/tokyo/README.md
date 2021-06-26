@@ -1,8 +1,8 @@
 # Map of Tokyo <span style="font-size:0.4em; color:lightgrey">12 June, 2021</span>
 
-Date started: Oct 2012
-Date completed: 31 Dec 2012
-Medium: Water-based pen on paper
+Date started: Oct 2012  
+Date completed: 31 Dec 2012  
+Medium: Water-based pen on paper  
 
 [Gallery](/gallery/)
 
