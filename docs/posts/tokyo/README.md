@@ -1,3 +1,5 @@
+![Tokyo Map Header Image](./tokyo-header.jpg)
+
 # Map of Tokyo <span style="font-size:0.4em; color:lightgrey">12 June, 2021</span>
 
 Date started: Oct 2012  
