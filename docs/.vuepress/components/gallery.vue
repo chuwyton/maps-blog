@@ -2,7 +2,7 @@
     <div>
         <div class="gallery">
             <div class="gallery-panel"
-                v-for="photo in photos"
+                v-for="photo in filteredPhotos"
                 :key="photo.id">
                 <img :src="thumbUrl(photo.gallery, photo.filename)" v-on:click="selectPhoto(photo.id)"/>
             </div>
@@ -21,7 +21,7 @@ import photos from '../public/pics/gallery/gallery.json'
 
 export default {
     name: 'gallery',
-    props: ['album'],
+    props: ['gallery'],
     data() {
         return {
             photos: photos,
@@ -31,7 +31,7 @@ export default {
     },
     computed: {
         filteredPhotos() {
-            return this.photos.filter(photo => photo.gallery = this.album);
+            return this.photos.filter(photo => photo.gallery == this.gallery);
         }
     },
     methods: {
