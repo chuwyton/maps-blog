@@ -3,7 +3,7 @@ pageClass: gallery-page
 ---
 
 # Osaka-Kyoto Map
-<gallery album="osakyo"/>  
+<gallery gallery="osakyo"/>  
 
 # Tokyo Map
-<gallery album="tokyo"/>
+<gallery gallery="tokyo"/>
