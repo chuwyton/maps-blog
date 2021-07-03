@@ -1,5 +1,6 @@
 module.exports = {
-    base: 'maps-blog',
+    base: '/maps-blog/',
+    dest: 'dist',
     title: 'Hand Drawn Maps of Wyton Chu',
     themeConfig: {
         nav: [
