@@ -8,6 +8,8 @@ A place to host all my map stuff. I also talk about making them from time to tim
 
 [Click here to see photos](/gallery/)  
 
+[About Me](/about/)
+
 # Posts
 [Osaka-Kyoto Map](/posts/osakyo/)
 
