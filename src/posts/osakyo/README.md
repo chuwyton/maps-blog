@@ -6,7 +6,7 @@ Date started: 7 Oct 2019 (draft in 2015)
 Date completed: 17 Apr 2021  
 Medium: Water-based pen/marker on paper  
 
-[Gallery](/gallery/)  
+[Gallery](/gallery/#Osaka-Kyoto_Map)  
 
 ## Osaka and Kyoto
 I have visited Kyoto a few times. The temples were great - I once climbed up the Fushimi-Inari Shrine with a group of friends, and it offered great views of Kyoto city, about halfway up the hill. There was an outcrop and a couple of benches you could sit on, as well as a few shops where you could buy snacks if you so fancied.  

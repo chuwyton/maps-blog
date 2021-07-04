@@ -6,7 +6,7 @@ Date started: Oct 2012
 Date completed: 31 Dec 2012  
 Medium: Water-based pen on paper  
 
-[Gallery](/gallery/)
+[Gallery](/gallery/#Tokyo_Map)
 
 ## The Map  
 Tokyo is the first map I seriously attempted to copy, and later draw. I can't remember exactly when, but it was after my first trip to Tokyo with family in 2004, when I was 10. I do remember getting enthralled by the utter complexity that the map in the tourist guidebook we brought along had to offer. I had never seen so many colors on a transit map before in my life. But even then, I noticed that some lines were of the same color, which led to confusion about which line was which - and worse, where the lines went when two of them crossed. (I would later find out that there was one color for all the "minor" JR Lines, and one color for all private railways. Only the subway had their own lines.) So I went about copying the guidebook version, drawing the lines as unambiguously as I could. I didn't use color then; I only had a ball-point pen and some lined paper lying around, which I would glue together when the map got too big.
