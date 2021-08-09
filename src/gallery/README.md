@@ -3,7 +3,7 @@ pageClass: gallery-page
 ---
 
 # Osaka-Kyoto Map
-[See full scan of map](maps-blog/pics/gallery/osakyo/osakyo-scan.jpg)
+<a href="/maps-blog/pics/gallery/osakyo/osakyo-scan.jpg">Full scan of map</a>
 <gallery gallery="osakyo"/>  
 
 # Tokyo Map
