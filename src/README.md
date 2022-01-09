@@ -11,6 +11,8 @@ A place to host all my map stuff. I also talk about making them from time to tim
 [About Me](/about/)
 
 # Posts
+[Tokyo Map v8 - Update 1](/posts/tokyo-2-20220109/)
+
 [Osaka-Kyoto Map](/posts/osakyo/)
 
 [Tokyo Map](/posts/tokyo/)
